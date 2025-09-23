@@ -43,7 +43,7 @@ I'm ready to **contribute**, **grow**, and **make an impact**!
 ---
 
 ## 📫 **Let’s Build Something Great Together**  
-- 🌐 **Portfolio**: *(Coming Soon)*  
+- 🌐 **Portfolio**: https://hermida95.github.io/myLandingPage/  
 - 🐙 **GitHub**: https://github.com/Hermida95 
 - 📧 **Email**: hermida95@gmail.com
 
